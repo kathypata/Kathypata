@@ -20,16 +20,16 @@
 ### 🛠️ Featured Projects
 
 #### 📊 Credit Risk & Loan Performance Intelligence
-- Engineered an end-to-end data modeling pipeline analyzing 10,000+ records to pinpoint high-risk borrower segments, building a custom **Power BI** star schema model to optimize risk visibility[cite: 1].
+- Engineered an end-to-end data modeling pipeline analyzing 10,000+ records to pinpoint high-risk borrower segments, building a custom **Power BI** star schema model to optimize risk visibility.
 
 #### 🚊 TTC Bus Delay Big Data Analysis
-- Processed 56K+ transit delay records using a **Hadoop stack (HDFS, Hive, Spark SQL, Zeppelin)** to isolate root mechanical failures and surface high-incidence routes for operational improvement[cite: 1].
+- Processed 56K+ transit delay records using a **Hadoop stack (HDFS, Hive, Spark SQL, Zeppelin)** to isolate root mechanical failures and surface high-incidence routes for operational improvement.
 
 #### 📉 Retail Banking Attrition Intelligence
-- Analyzed 10,000+ customer accounts using **SQL Server** to uncover regional churn drivers, identifying a critical 20.37% churn rate and mapping out a $185.6M deposit loss footprint to drive retention strategy[cite: 1].
+- Analyzed 10,000+ customer accounts using **SQL Server** to uncover regional churn drivers, identifying a critical 20.37% churn rate and mapping out a $185.6M deposit loss footprint to drive retention strategy.
 
 #### 🤖 Bank Customer Churn Machine Learning
-- Developed predictive **Python ML classification models** (XGBoost, CatBoost) leveraging threshold tuning and feature engineering to isolate strong indicators for customer-retention targeting[cite: 1].
+- Developed predictive **Python ML classification models** (XGBoost, CatBoost) leveraging threshold tuning and feature engineering to isolate strong indicators for customer-retention targeting.
 
 ---
 
