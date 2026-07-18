@@ -1,8 +1,10 @@
 # Hi 👋, I'm Katherine!
 
 ### 💡 "Tech + Women? Yes, it is possible!!"
-As a Business Analyst & Data Analyst with 5+ years of experience, I bridge the gap between business strategy, system workflows, and complex data engineering. From scaling 5M+ record data streams to architecting national digital verification workflows, I love turning complex logic into elegant, high-impact tech solutions.
-
+5+ Years of experience in Data and Business Analyst whoo! Time flies! Is it amazing that tech tools help us solve business problems? !!!
+What stakeholders said >> Taking note nod copy that >> AND Here it comes BRD + Acceptance criterias + Timeline!
+Dev Team Need a tool to track the project progress I got you! There you go Jira tickets!! I know you love it!
+Last but not least UAT making sure it will work YAY!!
 ---
 
 ### 💻 Core Expertise
