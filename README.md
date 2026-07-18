@@ -1,16 +1,16 @@
 # Hi 👋, I'm Katherine!
 
 ### 💡 "Tech + Women? Yes, it is possible!!"
-As a Business Analyst & Data Analyst with 5+ years of experience, I bridge the gap between business strategy, system workflows, and complex data engineering[cite: 1]. From scaling 5M+ record data streams to architecting national digital verification workflows, I love turning complex logic into elegant, high-impact tech solutions[cite: 1].
+As a Business Analyst & Data Analyst with 5+ years of experience, I bridge the gap between business strategy, system workflows, and complex data engineering. From scaling 5M+ record data streams to architecting national digital verification workflows, I love turning complex logic into elegant, high-impact tech solutions.
 
 ---
 
 ### 💻 Core Expertise
 
-- **Business Analysis & Agile:** Requirements Gathering (BRD), User Stories (Jira/Confluence), UAT Strategy, Gap Analysis, e-KYC Identity Verification[cite: 1].
-- **Data Analytics & BI:** Power BI (PL-300 Certified), Advanced DAX, Star Schema Data Modeling, Feature Engineering[cite: 1].
-- **Database & Data Engineering:** Advanced SQL Query Optimization, ETL Pipelines, Hadoop Ecosystem (HDFS, Hive, Spark SQL), AWS Lambda[cite: 1].
-- **Methodologies:** Process Improvement (Lean Six Sigma), Root Cause Analysis, Risk Management[cite: 1].
+- **Business Analysis & Agile:** Requirements Gathering (BRD), User Stories (Jira/Confluence), UAT Strategy, Gap Analysis, e-KYC Identity Verification.
+- **Data Analytics & BI:** Power BI (PL-300 Certified), Advanced DAX, Star Schema Data Modeling, Feature Engineering.
+- **Database & Data Engineering:** Advanced SQL Query Optimization, ETL Pipelines, Hadoop Ecosystem (HDFS, Hive, Spark SQL), AWS Lambda.
+- **Methodologies:** Process Improvement (Lean Six Sigma), Root Cause Analysis, Risk Management.
 
 ---
 
@@ -53,5 +53,5 @@ As a Business Analyst & Data Analyst with 5+ years of experience, I bridge the g
 
 ### 🤝 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/katherinepat/)[cite: 1]
-- ✉️ [Email](mailto:patadeew@gmail.com)[cite: 1]
+- 💼 [LinkedIn](https://www.linkedin.com/in/katherinepat/)
+- ✉️ [Email](mailto:patadeew@gmail.com)
