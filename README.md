@@ -1,7 +1,7 @@
 # Hi 👋, I'm Katherine!
 
 ### 💡 "Tech + Women? Yes, it is possible!!"
-- 5+ Years of experience in Data and Business Analyst whoo! Time flies! 
+- 3+ Years of experience in Business System Analyst whoo! Time flies! 
 - Is it amazing that tech tools help us solve business problems? !!!
 - What stakeholders said >> Taking note nod copy that >> AND Here it comes BRD + Acceptance criterias + Timeline!
 - Dev Team Need a tool to track the project progress I got you! There you go Jira tickets!! I know you love it!
